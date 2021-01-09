@@ -1,0 +1,1 @@
+web: gunicorn cia_app.wsgi
